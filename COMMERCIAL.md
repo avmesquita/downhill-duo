@@ -12,7 +12,7 @@ Uso por instituições de ensino, pesquisa pública, organizações de caridade 
 
 ## Como pedir uma licença comercial
 
-Contacto: abra uma conversa em https://github.com/avmesquita ou escreva para **[e-mail de contato a preencher]**.
+Contacto: abra uma conversa em https://github.com/avmesquita ou escreva para **[avmesquita@gmail.com]**.
 
 Inclua:
 
